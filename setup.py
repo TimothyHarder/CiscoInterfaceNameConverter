@@ -11,9 +11,9 @@ setuptools.setup(
     description="Convert between short and long versions of cisco interface names.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hardertimothy/",
+    url="https://github.com/TimothyHarder/CiscoInterfaceNameConverter",
     project_urls={
-        "Bug Tracker": "https://github.com/"
+        "Bug Tracker": "https://github.com/TimothyHarder/CiscoInterfaceNameConverter/issues"
     },
     classifiers = [
         "Programming Language :: Python :: 3",
