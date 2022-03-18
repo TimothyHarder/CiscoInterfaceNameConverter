@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+src/CiscoInterfaceNameConverter/__init__.py
+src/CiscoInterfaceNameConverter/converter.py
+src/CiscoInterfaceNameConverter.egg-info/PKG-INFO
+src/CiscoInterfaceNameConverter.egg-info/SOURCES.txt
+src/CiscoInterfaceNameConverter.egg-info/dependency_links.txt
+src/CiscoInterfaceNameConverter.egg-info/top_level.txt
